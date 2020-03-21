@@ -9,7 +9,6 @@ title: For sale
 - bitcoinsv.page
 - bitcoinsv.ninja
 - bitcoinsv.lol
-
 - bsv.how
 - bsv.wales
 - bsv.page
