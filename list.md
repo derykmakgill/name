@@ -3,14 +3,16 @@ layout: default
 title: For sale
 ---
 
-# BitcoinSV domains
+[Home](/)
+
+## BitcoinSV domains
 
 - bitcoinsv.ai
 - bitcoinsv.page
 - bitcoinsv.ninja
 - bitcoinsv.lol
 
-# BSV domains
+## BSV domains
 
 - bsv.how
 - bsv.wales
