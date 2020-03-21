@@ -8,4 +8,4 @@ We’re a Bitcoin domain holding company that aquires, sells, leases, and builds
 
 We currently own the world's largest portoflio of BSV and BitcoinSV domains.
 
-See examples by browsing our [featured list](/) or email us at [satoshi@bitcoinsv.name.](/)
+See examples by browsing our [featured list](/list) or email us at [satoshi@bitcoinsv.name.](/)
